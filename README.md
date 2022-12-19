@@ -7,8 +7,7 @@ Permite:
   - Ejecución en "background" y listar procesos con jobs.
 
 Compilar:
--------------------------------------------------------
 ```
-pegar
+gcc -Wall -Wextra myshell.c libparser.a -o myshell -static
 ```
 
