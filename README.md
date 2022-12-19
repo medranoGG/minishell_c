@@ -11,3 +11,8 @@ Compilar:
 gcc -Wall -Wextra myshell.c libparser.a -o myshell -static
 ```
 
+Ejecuta:
+
+```
+./myshell
+```
