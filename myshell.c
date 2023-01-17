@@ -197,9 +197,6 @@ void moreTwoCommandProcess(tline *line){
             }
         }
     }
-
-    free(matrix_pipes);
-    free(array_pid);
 }
 
 
