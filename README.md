@@ -3,6 +3,12 @@
 <h1 align="center"><img src="./icon/C.svg" width="48"><img src="./icon/Linux-Dark.svg" width="48"></h1>
 <h1 align="center"><img src="./icon/Linux-Dark.svg" width="48"></h1>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=icon,Linux-Dark" />
+  </a>
+</p>
+
 <h3>Permite</h3>
   - Ejecución uno o varios comandos enlazados con "|".
   - Redirecciones de entrada y salida desde o a ficheros.
