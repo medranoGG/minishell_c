@@ -1,6 +1,6 @@
 
 <h3 align="center">Proyecto minishell en c.</h3>
-<img align="center" src="./icons/C.svg" width="48"> 
+<img src="./icons/C.svg" width="48"> 
 
 <h3>Permite</h3>
   - Ejecución uno o varios comandos enlazados con "|".
