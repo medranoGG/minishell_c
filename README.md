@@ -1,25 +1,27 @@
 
-<h3 align="center">Proyecto minishell en c.</h3>
-<h1 align="center"><img src="./icon/C.svg" width="48"><img src="./icon/Linux-Dark.svg" width="48"></h1>
-<h1 align="center"><img src="./icon/Linux-Dark.svg" width="48"></h1>
+<h3 align="center">- PROYECTO MINISHELL EN C -</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=icon,Linux-Dark" />
+    <img src="./icon/C.svg" width="48">
+    <img src="./icon/Linux-Dark.svg" width="48">
   </a>
 </p>
 
-<h3>Permite</h3>
-  - Ejecución uno o varios comandos enlazados con "|".
-  - Redirecciones de entrada y salida desde o a ficheros.
-  - Ejecución en "background" y listar procesos con jobs.
+<h3>Permite:</h3>
 
-Compilar:
+- [x] Ejecución uno o varios comandos enlazados con "|".
+- [x] Redirecciones de entrada y salida desde o a ficheros.
+- [x] Ejecución en "background" y listar procesos con jobs.
+
+
+<h3>Compilar:</h3>
+
 ```
 gcc -Wall -Wextra myshell.c libparser.a -o myshell -static
 ```
 
-Ejecutar:
+<h3>Ejecutar:</h3>
 
 ```
 ./myshell
