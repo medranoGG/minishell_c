@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="./icon/C.svg" width="48">
-    <img src="./icon/Linux-Dark.svg" width="48">
+    <img src="./icons/C.svg" width="48">
+    <img src="./icons/Linux-Dark.svg" width="48">
   </a>
 </p>
 
